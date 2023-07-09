@@ -1,25 +1,32 @@
-<h1>Hi, I'm Andy! <br/><a href="https://github.com/weshzu">Gaming Programmer</a>, <a href="https://www.linkedin.com/in/andy-wan-964797b0/">IT Professional</a></h1>
+<h1>Hi, I'm Andy! <a href="https://weshzu.github.io">An IT Professional</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Completed Projects:</h2>
 
-- <b>Jelly Fish Game (Unity and Autodesk Maya)</b>
-  - [](https://github.com/weshzu/JellyFish)
-- <b>HoneyNet Lab (Microsoft Azure and KQL)</b>
-  - [](https://github.com/weshzu/honeypot)
+- <b>Microsoft Azure</b>
+  - [HoneyNet Lab](https://github.com/weshzu/honeypot)
+- <b>Unity and Autodesk Maya</b>
+  - [JellyFish Game](https://github.com/weshzu/JellyFish)
 
-
+<details>
+ <summary><h3> 👨‍💼 I am working towards cybersecurity</h3></summary>
+ 
+- 🎓 I’m a graduate of the `Coursera Google and IBM` Cybersecurity course
+- 👯 I’m looking to collaborate with `like-minded persons.`
+- 🤔 I’m looking for help with `cyber-related portfolios in building educational and animated projects.`
+- 🧠 Continuously learning `Azure, Linux, Python/MEL and MySQL .`
+- 🔭 I’m currently working on `HDI, Security+ and eventually CISSP.`
+- ⚡ Fun fact `Love hiking, ping pong, listening to podcast and always curious!`
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="AndyWan | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="AndyWan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="AndyWan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dropbox.svg" />][dropbox]
 [<img align="left" alt="AndyWan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="AndyWan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: 
-[youtube]: 
-[instagram]: https://www.instagram.com/andyvvan/
+[dropbox]: https://www.dropbox.com/scl/fo/stpbdgc3ar3kn10u9htgz/h?rlkey=0m4jxyq5b8uusnudk2cu77wfz&dl=0
 [linkedin]: https://www.linkedin.com/in/andy-wan-964797b0/
+[instagram]: https://www.instagram.com/andyvvan/
+
 
 <!--
 **weshzu/weshzu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
